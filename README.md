@@ -1,6 +1,6 @@
 # yell0wsuit's HTML5 games collection
 
-> *Flash is dead, long live HTML!*
+> *Rip Flash, long live HTML!*
 
 A personal collection of HTML5 games with the goal of preserving them in case of being discontinued (and having fun). Some games may require an Internet connection in order to work properly; however, plans to make them offline will be made in case the servers are going to be shut down.
 
